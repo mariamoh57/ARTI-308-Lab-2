@@ -5,7 +5,7 @@ The goal of this project is to predict passenger survival on the Titanic based o
 
 ## 2. Methodology Diagram
 This flowchart illustrates the end-to-end machine learning workflow followed in this lab, from problem statement to final deployment.
-![Machine Learning Methodology](./Flowchart.png)
+![Machine Learning Methodology](Lab-2/Digram/Flowchart.png)
 
 ## 3. Dataset Information
 - **Source:** Titanic Open Dataset (CSV format).
